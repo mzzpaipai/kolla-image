@@ -1,8 +1,7 @@
 {
     "auth": {	
         "registry.cn-shenzhen.aliyuncs.com": {
-            "username": "aliyun3506373365",
-            "password": "Abc@1234"
+       
         }
     },
     "images": {
